@@ -2,7 +2,7 @@
 
 In terminal linux you can edit with nano
 
-'''
+```sh
 $ cd instagramauto
 $ nano bot.py
 ```
@@ -14,4 +14,4 @@ With nano you edit username anda password instagram
 $ git clone https://github.com/YudaTGM/instagramauto
 $ cd instagramauto
 $ python2 bot.py
-```sh
+```
