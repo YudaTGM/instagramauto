@@ -14,4 +14,4 @@ With nano you edit username anda password instagram
 $ git clone https://github.com/YudaTGM/instagramauto
 $ cd instagramauto
 $ python2 bot.py
-```
+```sh
