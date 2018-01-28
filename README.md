@@ -2,7 +2,7 @@
 
 In terminal linux you can edit with nano
 
-'''sh
+'''
 $ cd instagramauto
 $ nano bot.py
 ```
